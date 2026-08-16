@@ -1,0 +1,48 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Maven
+target/
+*/target/
+
+# Java
+*.class
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Local Spring configuration
+application-local.properties
+application-local.yml
+application-local.yaml
+
+# Docker local data
+grafana_data/
+prometheus_data/
+
+# Temporary files
+*.tmp
+*.temp
+
+
+# Local database data
+mongo-data/
+mysql_keycloak_data/
+postgres-inventory/
+postgres-order/
+
+# Grafana local database
+grafana/grafana.db
+grafana/*.db
