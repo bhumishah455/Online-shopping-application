@@ -967,8 +967,3 @@ Java Backend / Full Stack Software Engineer
 
 **Technologies:** Java | Spring Boot | Microservices | Kafka | PostgreSQL | Docker | AWS
 
----
-
-# ⭐ Support
-
-If you find this project useful for learning **Java, Spring Boot, Microservices, Kafka, and Docker**, consider giving the repository a ⭐ on GitHub.
